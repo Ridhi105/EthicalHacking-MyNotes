@@ -1,2 +1,4 @@
-# EthicalHacking-MyNotes
-This Repository contains my personal Notes about EthicalHaking
+#  Day 01
+This is my Repository
+#  Day 02
+
